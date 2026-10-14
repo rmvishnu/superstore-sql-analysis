@@ -1,0 +1,4 @@
+- Technology is the category with the highest total sales.
+- California is the top state by total profit.
+- Standard Class is the most used ship mode, with 5,968 orders.
+- Binders have the highest average discount (about 37%), followed by Machines (31%) and Tables (26%).
